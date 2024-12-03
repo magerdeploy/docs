@@ -76,10 +76,6 @@ const config: Config = {
               href: 'https://github.com/praswicaksono/magerdeploy',
             },
             {
-              label: 'Telegram',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
               label: 'X',
               href: 'https://x.com/magerdeploy',
             },

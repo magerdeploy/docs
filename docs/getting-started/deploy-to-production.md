@@ -10,7 +10,7 @@ In order to deploy to production you have to create [Namespace](http://test) fir
 mager namespace:add
 ```
 
-It will prompt you several question like first server credentials,. You need only run this once.
+It will prompt you several question like first server credentials,. You need only run this once. Make sure you have have sudo without password access for your ssh key. It will **Mager** will do provisioning for you such as install docker and setup firewall.
 
 To deploy you need to run
 
