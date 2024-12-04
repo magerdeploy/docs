@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Deploy To Production
 
-In order to deploy to production you have to create [Namespace](http://test) first.
+In order to deploy to production you have to create [Namespace](https://docs.mager.tel/core-concept/namespace) first.
 
 ```sh
 mager namespace:add
